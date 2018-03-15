@@ -51,3 +51,14 @@ Por tanto, el benchmarking **es el proceso por el cual se obtiene información �
 |Conectividad        |`	LTE , WiFi, Bluetooth, GPSV`|
 |Cámaras             |`Trasera 13 megapíxeles con flash LED y enfoque PDAF Frontal 5 megapíxeles`          |
 |Batería             |`Batería Li-Ion, 2.800 mAh, extraíble`                                               |
+
+|                |ALCATEL PIXI4 5.5" (5012G)                                                   |
+|----------------    |-------------------------------                                                      |
+|Dimensiones físicas |151,20 x 78,30 x 8,60 mm                                                          |
+|Pantalla            |720 x 1280 px (5,50") 267 ppi, 16M colores, colorida / IPS TFT                |
+|Procesador          |MediaTek MT6580, Frecuencia de reloj: 1,30 GHz, Cantidad de núcleos: 4, GPU: ARM Mali-400 MP2 500 MHz |
+|RAM                 |`1 GB`                                                                               |
+|Memoria             |`4.5 GB Ampliable hasta en otros 32 GB con tarjeta microSD`                           |
+|Versión de Software |`Android 6.0 Marshmallow`                                                                      |
+|Cámaras             |`Trasera 13 megapíxeles, Frontal de 8 megapíxeles`                                   |
+|Batería             |`Li-Ion 2500 mAh`                                                     |
