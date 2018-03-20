@@ -48,7 +48,7 @@ Por tanto, el benchmarking **es el proceso por el cual se obtiene información �
 |Cámaras             |`Trasera 13 megapíxeles con flash LED y enfoque PDAF Frontal 5 megapíxeles`          |
 |Batería             |`Batería Li-Ion, 2.800 mAh, extraíble`                                               |
 
-=======
+
 |                |ALCATEL PIXI4 5.5" (5012G)                                                   |
 |----------------    |-------------------------------                                                      |
 |Dimensiones físicas |151,20 x 78,30 x 8,60 mm                                                          |
